@@ -8,60 +8,67 @@ import project6 from '../images/project-6.png';
 import project7 from '../images/project-7.png';
 import project8 from '../images/project-8.png';
 import project9 from '../images/project-9.png';
+import project10 from '../images/project-10.png';
 
 export const projects = [
   {
     id: 1,
     src: project1,
     name: 'Web Studio',
-    href: 'https://marventures.github.io/goit-markup-hw-07/',
+    href: 'https://ksaremo23.github.io/goit-markup-hw-07/',
   },
   {
     id: 2,
     src: project2,
     name: 'Image Gallery',
-    href: 'https://marventures.github.io/goit-js-hw-07/',
+    href: 'https://ksaremo23.github.io/goit-js-hw-07/',
   },
   {
     id: 3,
     src: project3,
     name: 'Color Switcher',
-    href: 'https://github.com/marventures/goit-js-hw-09',
+    href: 'https://ksaremo23.github.io/goit-js-hw-0009/',
   },
   {
     id: 4,
     src: project4,
-    name: 'Color Switcher',
-    href: 'https://github.com/marventures/goit-js-hw-09',
+    name: 'Social Network Profile',
+    href: 'https://ksaremo23.github.io/goit-react-hw-001-components/',
   },
   {
     id: 5,
     src: project5,
     name: 'Cat Project',
-    href: 'https://github.com/marventures/goit-js-hw-10',
+    href: 'https://ksaremo23.github.io/goit-js-hw-010/',
   },
   {
     id: 6,
     src: project6,
     name: 'Image Search',
-    href: 'https://github.com/marventures/goit-js-hw-11',
+    href: 'https://ksaremo23.github.io/goit-js-hw-011/',
   },
   {
     id: 7,
     src: project7,
     name: 'Image Finder',
-    href: 'https://marventures.github.io/goit-react-hw-04-images/',
+    href: 'https://ksaremo23.github.io/goit-react-hw-0004-feedback/',
   },
   {
     id: 8,
     src: project8,
-    name: 'Movie Search',
-    href: 'https://marventures.github.io/goit-react-hw-05-movies/',
+    name: 'PhoneBook',
+    href: 'https://ksaremo23.github.io/goit-react-hw-0004-phonebook/',
   },
   {
     id: 9,
     src: project9,
-    name: 'Phonebook',
-    href: 'https://marventures.github.io/goit-react-hw-08-phonebook/',
+    name: 'Feedback',
+    href: 'https://ksaremo23.github.io/goit-react-hw-0004-images/',
+  },
+  {
+    id: 10,
+    src: project10,
+    name: 'Movie Search',
+    href: 'https://ksaremo23.github.io/goit-react-hw-0005-movies/',
   },
 ];

@@ -1,18 +1,20 @@
 /* Custom Font */
 
-@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 /* CSS VARIABLES */
 :root {
-  --PRIMARY: #e85d04;
-  --SECONDARY: #f48c06;
-  --DARK: #303030;
+  --PRIMARY: #03045e;
+  --SECONDARY: #023E8A;
+  --DARK: #0077B6;
   --LIGHT: #edf2f4;
 }
 
 body {
   margin: 0;
-  font-family: 'Nunito', sans-serif;
+  /* font-family: 'Nunito', sans-serif; */
+  font-family: "Montserrat", serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }

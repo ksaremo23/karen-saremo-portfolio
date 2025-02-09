@@ -5,22 +5,22 @@ import { IoIosMail } from 'react-icons/io';
 export const socialLinks = [
   {
     id: 1,
-    href: 'https://facebook.com/marventures11',
+    href: 'https://www.facebook.com/leicshakaren.saremo.1#',
     icon: FaFacebookF,
   },
   {
     id: 2,
-    href: 'https://linkedin.com/in/marventures',
+    href: 'https://www.linkedin.com/in/leicsha-karen-saremo-4883b41aa/',
     icon: FaLinkedinIn,
   },
   {
     id: 3,
-    href: 'https://github.com/marventures',
+    href: 'https://github.com/ksaremo23',
     icon: FaGithubAlt,
   },
   {
     id: 4,
-    href: 'mailto:marvedcodes@gmail.com',
+    href: 'mailto:ksaremo22@gmail.com',
     icon: IoIosMail,
   },
 ];
