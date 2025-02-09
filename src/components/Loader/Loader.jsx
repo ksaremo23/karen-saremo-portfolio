@@ -4,7 +4,7 @@ import css from './Loader.module.css';
 export const Loader = () => {
   return (
     <div className={css.loaderContainer}>
-      <PropagateLoader color="#e85d04" />
+      <PropagateLoader color="#023E8A" />
     </div>
   );
 };
