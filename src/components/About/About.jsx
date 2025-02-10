@@ -70,7 +70,7 @@ export const About = () => {
 
         {/* Work Experience */}
         <div>
-          <h3 className={css.bottomPortionTitle}>Work Experience</h3>
+          <h3 className={css.bottomPortionTitle}>Boot Camps</h3>
           <ul>
             {aboutList4.map(({ id, company, year, position }) => (
               <li className={css.aboutListItem} key={id}>
